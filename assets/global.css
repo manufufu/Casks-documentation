@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1260px;
+  width: 100%;
+  padding: 0 20px;
+}

@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+.container {
+  max-width: 1260px;
+  width: 100%;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+}
+
+.spacer {
+  margin: 50px 0;
+}
